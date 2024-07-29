@@ -1,0 +1,12 @@
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\bin\Debug\net8.0\EShop.BuildingBlocks.deps.json
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\bin\Debug\net8.0\EShop.BuildingBlocks.dll
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\bin\Debug\net8.0\EShop.BuildingBlocks.pdb
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\EShop.BuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\EShop.BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\EShop.BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\EShop.BuildingBlocks.AssemblyInfo.cs
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\EShop.BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\EShop.BuildingBlocks.dll
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\refint\EShop.BuildingBlocks.dll
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\EShop.BuildingBlocks.pdb
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\ref\EShop.BuildingBlocks.dll

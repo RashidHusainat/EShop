@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4hxFktrhcNjG3ssC5geJ0rfsQRuaFvqC+fzn55o1t2g=",
+  "Source": "EShop.CatalogAPI",
+  "BasePath": "_content/EShop.CatalogAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
