@@ -10,3 +10,4 @@ C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\De
 C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\refint\EShop.BuildingBlocks.dll
 C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\EShop.BuildingBlocks.pdb
 C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\ref\EShop.BuildingBlocks.dll
+C:\Users\rhussinat\source\repos\EShop\BuildingBlocks\EShop.BuildingBlocks\obj\Debug\net8.0\EShop.BuildingBlocks.sourcelink.json

@@ -169,3 +169,4 @@ C:\Users\rhussinat\source\repos\EShop\Sevices\Catalog\EShop.CatalogAPI\obj\Debug
 C:\Users\rhussinat\source\repos\EShop\Sevices\Catalog\EShop.CatalogAPI\obj\Debug\net8.0\EShop.CatalogAPI.pdb
 C:\Users\rhussinat\source\repos\EShop\Sevices\Catalog\EShop.CatalogAPI\obj\Debug\net8.0\EShop.CatalogAPI.genruntimeconfig.cache
 C:\Users\rhussinat\source\repos\EShop\Sevices\Catalog\EShop.CatalogAPI\obj\Debug\net8.0\ref\EShop.CatalogAPI.dll
+C:\Users\rhussinat\source\repos\EShop\Sevices\Catalog\EShop.CatalogAPI\obj\Debug\net8.0\EShop.CatalogAPI.sourcelink.json
