@@ -3,51 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\rhussinat\\source\\repos\\EShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29F8D3BF-6024-48C1-84CB-30D48E7DCEE4}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29F8D3BF-6024-48C1-84CB-30D48E7DCEE4}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4A04065-2198-41E6-A918-55C9C60B02E2}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\ordering\\ordering.domain\\abstraction\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A04065-2198-41E6-A918-55C9C60B02E2}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstraction\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F8D3BF-6024-48C1-84CB-30D48E7DCEE4}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29F8D3BF-6024-48C1-84CB-30D48E7DCEE4}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E4A04065-2198-41E6-A918-55C9C60B02E2}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\ordering\\ordering.domain\\abstraction\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A04065-2198-41E6-A918-55C9C60B02E2}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstraction\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F8D3BF-6024-48C1-84CB-30D48E7DCEE4}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\basket\\basket.api\\basket\\storebasket\\storebasketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29F8D3BF-6024-48C1-84CB-30D48E7DCEE4}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\basket\\storebasket\\storebasketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4A04065-2198-41E6-A918-55C9C60B02E2}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\ordering\\ordering.domain\\abstraction\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A04065-2198-41E6-A918-55C9C60B02E2}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstraction\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F8D3BF-6024-48C1-84CB-30D48E7DCEE4}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\discount\\discount.grpc\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{29F8D3BF-6024-48C1-84CB-30D48E7DCEE4}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\discount\\discount.grpc\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{E4A04065-2198-41E6-A918-55C9C60B02E2}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\ordering\\ordering.domain\\abstraction\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A04065-2198-41E6-A918-55C9C60B02E2}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstraction\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Basket\\Basket.Api\\obj\\Debug\\net8.0\\Discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\Basket\\Basket.Api\\obj\\Debug\\net8.0\\Discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9F8C82D-1EAC-46FA-8A77-7305C7AAA77F}|docker-compose.dcproj|c:\\users\\rhussinat\\source\\repos\\eshop\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C9F8C82D-1EAC-46FA-8A77-7305C7AAA77F}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9F8C82D-1EAC-46FA-8A77-7305C7AAA77F}|docker-compose.dcproj|c:\\users\\rhussinat\\source\\repos\\eshop\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C9F8C82D-1EAC-46FA-8A77-7305C7AAA77F}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9F8C82D-1EAC-46FA-8A77-7305C7AAA77F}|docker-compose.dcproj|c:\\users\\rhussinat\\source\\repos\\eshop\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C9F8C82D-1EAC-46FA-8A77-7305C7AAA77F}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29F8D3BF-6024-48C1-84CB-30D48E7DCEE4}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\basket\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{29F8D3BF-6024-48C1-84CB-30D48E7DCEE4}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{231A9913-57DC-48EA-BE3C-10E907565332}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\discount\\discount.grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{231A9913-57DC-48EA-BE3C-10E907565332}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{231A9913-57DC-48EA-BE3C-10E907565332}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\discount\\discount.grpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{231A9913-57DC-48EA-BE3C-10E907565332}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E4A04065-2198-41E6-A918-55C9C60B02E2}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\rhussinat\\source\\repos\\eshop\\services\\ordering\\ordering.domain\\abstraction\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A04065-2198-41E6-A918-55C9C60B02E2}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstraction\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,158 +46,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StoreBasketCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Basket\\Basket.Api\\Basket\\StoreBasket\\StoreBasketCommandHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Basket\\StoreBasket\\StoreBasketCommandHandler.cs",
-              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Basket\\Basket.Api\\Basket\\StoreBasket\\StoreBasketCommandHandler.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\Basket\\StoreBasket\\StoreBasketCommandHandler.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAowCQAAABaAAAA",
+              "DocumentIndex": 0,
+              "Title": "Aggregate.cs",
+              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Ordering\\Ordering.Domain\\Abstraction\\Aggregate.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstraction\\Aggregate.cs",
+              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Ordering\\Ordering.Domain\\Abstraction\\Aggregate.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstraction\\Aggregate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T11:46:06.433Z",
+              "WhenOpened": "2024-08-11T12:32:12.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Basket\\Basket.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Basket\\Basket.Api\\appsettings.json",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-08T11:40:53.317Z",
+              "Title": "IAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Ordering\\Ordering.Domain\\Abstraction\\IAggregate.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstraction\\IAggregate.cs",
+              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Ordering\\Ordering.Domain\\Abstraction\\IAggregate.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstraction\\IAggregate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:27:18.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Basket\\Basket.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Basket\\Basket.Api\\Program.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Ordering\\Ordering.Domain\\Abstraction\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstraction\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Ordering\\Ordering.Domain\\Abstraction\\IDomainEvent.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstraction\\IDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T11:39:08.833Z",
+              "WhenOpened": "2024-08-11T12:22:03.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "discount.proto",
-              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Discount\\Discount.Grpc\\Protos\\discount.proto",
-              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Protos\\discount.proto",
-              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Discount\\Discount.Grpc\\Protos\\discount.proto",
-              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Protos\\discount.proto",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2024-08-08T11:38:50.983Z",
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Ordering\\Ordering.Domain\\Abstraction\\Entity.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstraction\\Entity.cs",
+              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Ordering\\Ordering.Domain\\Abstraction\\Entity.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstraction\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:19:51.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Discount.cs",
-              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Basket\\Basket.Api\\obj\\Debug\\net8.0\\Discount.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\obj\\Debug\\net8.0\\Discount.cs",
-              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Basket\\Basket.Api\\obj\\Debug\\net8.0\\Discount.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\obj\\Debug\\net8.0\\Discount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Ordering\\Ordering.Domain\\Abstraction\\IEntity.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstraction\\IEntity.cs",
+              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Ordering\\Ordering.Domain\\Abstraction\\IEntity.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstraction\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T11:38:24.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "docker-compose",
-              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\docker-compose.dcproj",
-              "RelativeDocumentMoniker": "docker-compose.dcproj",
-              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\docker-compose.dcproj",
-              "RelativeToolTip": "docker-compose.dcproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-08T11:01:43.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Basket\\Basket.Api\\Dockerfile",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Dockerfile",
-              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Basket\\Basket.Api\\Dockerfile",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-08T10:50:37.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Discount\\Discount.Grpc\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\appsettings.json",
-              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Discount\\Discount.Grpc\\appsettings.json",
-              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-08T10:47:55.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Discount\\Discount.Grpc\\Dockerfile",
-              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Dockerfile",
-              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\Services\\Discount\\Discount.Grpc\\Dockerfile",
-              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-08T10:46:44.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "ViewState": "AQIAALMAAAAAAAAAAAAuwMEAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-08-08T10:34:27.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-08-08T10:31:58.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\rhussinat\\source\\repos\\EShop\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\rhussinat\\source\\repos\\EShop\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-08-08T10:31:51.54Z",
+              "WhenOpened": "2024-08-11T12:15:02.4Z",
               "EditorCaption": ""
             }
           ]

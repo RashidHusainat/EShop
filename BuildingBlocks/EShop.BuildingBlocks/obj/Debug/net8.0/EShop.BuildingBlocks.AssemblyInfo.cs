@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EShop.BuildingBlocks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc435a92a94c52ea00710b4d1126e18075ab5fc2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7224c910be2ed21ac2b074a80b739c5fd94e897c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EShop.BuildingBlocks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EShop.BuildingBlocks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
