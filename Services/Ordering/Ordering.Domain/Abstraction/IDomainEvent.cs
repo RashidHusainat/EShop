@@ -8,10 +8,10 @@ namespace Ordering.Domain.Abstraction
 {
     public interface IDomainEvent
     {
-        Guid EventId { get; set; }
+        Guid EventId => Guid.NewGuid();
 
         public string Type => GetType().AssemblyQualifiedName;
 
-        public DateTime OccuredOn { get; set; }
+        public DateTime OccuredOn => DateTime.Now;
     }
 }
