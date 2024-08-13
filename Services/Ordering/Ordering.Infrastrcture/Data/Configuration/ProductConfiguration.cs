@@ -18,7 +18,7 @@ public class ProductConfiguration : IEntityTypeConfiguration<Product>
         builder.Property(x => x.Id)
             .HasConversion(productId => productId.Value,gid=>ProductId.Of(gid));
 
-        builder.Property(x=>x.Name).HasMaxLength(100).IsRequired();
+       builder.Property(x=>x.Name).HasMaxLength(100).IsRequired();
     }
 }
 

@@ -19,7 +19,8 @@ public class OrderItemConfiguration : IEntityTypeConfiguration<OrderItem>
         builder.HasKey(x => x.Id);
         builder.Property(x => x.Id)
             .HasConversion(orderItem => orderItem.Value, gid => OrderItemId.Of(gid));
-
+        builder.Property(i => i.Quantity).IsRequired();
+        builder.Property(i => i.Price).IsRequired();
         builder.HasOne<Product>()
             .WithMany()
             .HasForeignKey(x => x.ProductId);

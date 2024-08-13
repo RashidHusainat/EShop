@@ -18,9 +18,7 @@ public class Order : Aggregate<OrderId>
     public IReadOnlyList<OrderItem> OrderItems => _orderItems.AsReadOnly();
     public string OrderName { get; private set; } = default!;
 
-    public CustomerId CustomerId { get; private set; } = default!;
-
-    public ProductId ProductId { get; private set; } = default!;
+    public CustomerId CustomerId { get; private set; } = default!;    
 
     public OrderStatus Status { get; private set; } = default!;
 

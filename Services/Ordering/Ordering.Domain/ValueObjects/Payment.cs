@@ -14,7 +14,12 @@ namespace Ordering.Domain.ValueObjects;
         public string CVV { get; } = default!;
         public int PaymentMethod { get;} = default!;
 
-        private Payment(string cardName, string cardNumber, string expiration, string cvv, int paymentMethod)
+    private Payment()
+    {
+            
+    }
+
+    private Payment(string cardName, string cardNumber, string expiration, string cvv, int paymentMethod)
         {
             CardName = cardName;
             CardNumber = cardNumber;
