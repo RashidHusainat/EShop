@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,6 +9,7 @@ namespace Ordering.Domain.ValueObjects;
 
 public class OrderId
 {
+    
     public Guid Value { get; private set; } = default!;
 
     private OrderId(Guid value)

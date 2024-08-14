@@ -10,18 +10,18 @@ using Ordering.Infrastrcture.Data;
 
 #nullable disable
 
-namespace Ordering.Infrastrcture.Data.Migrations
+namespace Ordering.Infrastrcture.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240813110704_InitMigration03")]
-    partial class InitMigration03
+    [Migration("20240814144634_InitialMigration")]
+    partial class InitialMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.7")
+                .HasAnnotation("ProductVersion", "8.0.8")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
